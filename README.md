@@ -85,28 +85,6 @@ Low sunlight exposure affects serotonin and melatonin balance, causing **mental 
 
 ---
 
-### **5. Precipitation (`precip_mm`, `will_it_rain`)**
-
-Rain or drizzle contributes to fatigue, especially when combined with low pressure.
-
-**Metrics:**
-- Total daily precipitation  
-- Hours with rainfall  
-- Intensity > 1 mm/h  
-
----
-
-### **6. Wind (`wind_mph`, `gust_mph`)**
-
-Strong gusts may contribute to irritability or mild fatigue.
-
-**Metrics:**
-- Average wind speed  
-- Maximum gust speed  
-- Hours with wind > 10 mph (16 km/h)  
-
----
-
 ### **Summary Table**
 
 | Factor | Cognitive Impact | Typical Risk Thresholds |
@@ -115,4 +93,3 @@ Strong gusts may contribute to irritability or mild fatigue.
 | **Cloudiness** | High | >80% for >3h |
 | **Humidity** | Moderate | >80% or <30% |
 | **Temperature** | Moderate | ΔT > 6°C in 3–6h |
-| **Wind / Rain** | Low–moderate | gusts >30 km/h, heavy rain |
