@@ -34,7 +34,7 @@ def plot(df, columns, labels, ylabel, title):
                 'zorder': 0
             }
             if idx == 0:
-                plt.axvline(**line_arguments, label='Alert')
+                line_arguments.update({'label': 'Alert'})
             plt.axvline(**line_arguments)
     else:
         plt.scatter(
