@@ -1,10 +1,10 @@
-# 🌤️ MeteoAlert — Weather Alerts & Meteopathic Sensitivity Analysis
+# MeteoAlert — Weather Alerts & Meteopathic Sensitivity Analysis
 
 **MeteoAlert** is an analytical tool that monitors meteorological data (temperature, pressure, humidity, wind, etc.) to identify conditions that can affect **human well-being, focus, and cognitive performance** — especially for people sensitive to weather changes (known as *meteopaths*).
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This project provides:
 - Automatic weather data parsing from APIs (e.g., WeatherAPI)
@@ -15,7 +15,7 @@ This project provides:
 
 ---
 
-## 🧠 Environmental Factors Affecting Concentration and Mental Clarity
+## Environmental Factors Affecting Concentration and Mental Clarity
 
 Weather conditions can significantly influence the nervous system, vascular tone, and hormonal balance.  
 Below are the main factors that may cause **mental fog, fatigue, or reduced focus** in weather-sensitive individuals.
@@ -36,7 +36,7 @@ Sudden or prolonged pressure drops are the **primary trigger** for cognitive slo
 - **Rate of change:** ΔP / Δt (pressure change per hour)  
 - **Sudden drop indicator:** decrease > 5 hPa within 3 hours  
 
-📉 Rapid drops of >4–6 hPa within a few hours can cause vasodilation and reduced oxygen flow to the brain.
+Rapid drops of >4–6 hPa within a few hours can cause vasodilation and reduced oxygen flow to the brain.
 
 ---
 
